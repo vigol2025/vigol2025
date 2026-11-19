@@ -35,10 +35,6 @@ Banc à deux degrés de liberté qui reproduit l'actionnement de l'exosquelette 
 
 *Projet de recherche JUNIA : les documents ne sont pas publics. Je le présente volontiers en entretien.*
 
-### Projet personnel : outil d'aide à la décision en Python
-
-Application web personnelle (Python, Flask) reliée en lecture seule à une plateforme de marché : tableau de bord de performances, moteur de backtest avec coûts et validation hors échantillon, alertes. Code privé.
-
 ## Compétences
 
 | Domaine | Outils et méthodes |
@@ -47,7 +43,7 @@ Application web personnelle (Python, Flask) reliée en lecture seule à une plat
 | Embarqué et temps réel | C++ sur ESP32 (PlatformIO, FreeRTOS), I2C, PWM, liaison série tramée |
 | Conception mécanique | SolidWorks (assemblages par liaisons, mises en plan, automatisation par l'API), CAO paramétrique en Python, impression 3D |
 | Électrique | KiCad, schémas électriques normalisés, plans de câblage |
-| Logiciel | Python (NumPy, automatisation, Flask), Git |
+| Logiciel | Python (automatisation, Matplotlib), Git |
 | Ingénierie système | Capella (méthode Arcadia), cahier des charges, niveaux de maturité (TRL), planification |
 
 ---

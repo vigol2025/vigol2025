@@ -24,16 +24,24 @@ Robot mascotte en équilibre sur une seule roue, stabilisé par quatre roues de 
 
 ### Banc d'essai d'exosquelette pédiatrique, hanche et genou
 
-Projet de fin d'études, JUNIA HEI, septembre 2026 à janvier 2027 · équipe de 4
+Projet de fin d'études, JUNIA HEI, septembre 2026 à janvier 2027 · équipe de 4 · **[voir le dossier du projet](exosquelette-banc-2ddl/README.md)**
 
 Banc à deux degrés de liberté qui reproduit l'actionnement de l'exosquelette pédiatrique INES (moteurs maxon, réducteurs Harmonic Drive, contrôleurs EPOS4), pour que l'équipe de recherche y mette au point sa commande.
+
+<p align="center">
+  <img src="exosquelette-banc-2ddl/img/ensemble_cablage_iso.png" width="85%" alt="Banc 2 DDL en CAO : bras hanche-genou sur son support de table, coffret des EPOS4 et coffret de puissance">
+</p>
+<p align="center">
+  <img src="exosquelette-banc-2ddl/img/video_eclatee.gif" width="49%" alt="Vue éclatée animée du banc">
+  <img src="exosquelette-banc-2ddl/img/video_trajectoires.gif" width="49%" alt="Étude de mouvement : marche d'enfant">
+</p>
 
 - **Mon rôle : conception mécanique et câblage, en binôme.** Conception sous SolidWorks (192 pièces, assemblages par liaisons, 14 mises en plan), dimensionnement, nomenclature et carnet de commandes chiffré
 - Câblage : schéma électrique normalisé (12 folios), projet KiCad, plan de câblage
 - Contribution à l'ensemble du projet : état de l'art, cahier des charges, cinématique, planification
 - Avancement : conception et dossiers réalisés, fabrication et assemblage à venir ; banc opérationnel prévu en janvier 2027
 
-*Projet de recherche JUNIA : les documents ne sont pas publics. Je le présente volontiers en entretien.*
+*Projet de recherche JUNIA : seules des vues et des plans sont publiés, pas les fichiers CAO ni les schémas complets. Je le présente volontiers en entretien.*
 
 ## Compétences
 

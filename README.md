@@ -2,7 +2,7 @@
 
 Élève ingénieur en 5e année de **mécatronique et robotique** à JUNIA HEI (Lille). Je conçois des systèmes mécatroniques de bout en bout : dimensionnement, conception mécanique, électronique, commande et simulation, firmware embarqué.
 
-**Je recherche un stage de fin d'études d'un an** en robotique, en systèmes embarqués ou en commande.
+**Je recherche un stage de fin d'études** en robotique, en systèmes embarqués ou en commande.
 
 ## Projets
 
@@ -48,4 +48,4 @@ Banc à deux degrés de liberté qui reproduit l'actionnement de l'exosquelette 
 
 ---
 
-*In English: final-year mechatronics and robotics engineering student at JUNIA HEI (Lille, France), looking for a one-year end-of-studies internship in robotics, embedded systems or control. Projects: reaction-wheel stabilisation of a monowheel robot, with a two-axis test rig, Simscape and Webots digital twins and ESP32 firmware ([repository](https://github.com/vigol2025/reaction-wheel-monowheel)); mechanical design and wiring of a hip-knee test bench for a paediatric exoskeleton (final-year project).*
+*In English: final-year mechatronics and robotics engineering student at JUNIA HEI (Lille, France), looking for an end-of-studies internship in robotics, embedded systems or control. Projects: reaction-wheel stabilisation of a monowheel robot, with a two-axis test rig, Simscape and Webots digital twins and ESP32 firmware ([repository](https://github.com/vigol2025/reaction-wheel-monowheel)); mechanical design and wiring of a hip-knee test bench for a paediatric exoskeleton (final-year project).*
